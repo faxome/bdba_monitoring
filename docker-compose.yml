@@ -15,5 +15,14 @@ services:
       - DOCKER_INFLUXDB_INIT_ORG=bdba
       - DOCKER_INFLUXDB_INIT_BUCKET=bdba
 
+  grafana8:
+    image: grafana/grafana:8.0.5
+    container_name: grafana8
+    ports:
+      - 5000:3000
+    volumes:
+      - grafana:/var/lib/grafana
+
 volumes:
     influxdb2:
+    grafana:
