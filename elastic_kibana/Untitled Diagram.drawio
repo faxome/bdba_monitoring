@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-18T14:23:02.298Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vG1D0johK98uA2bKnFTH" version="20.0.1" type="github">
+<mxfile modified="2022-06-18T15:25:13.286Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="okFL4qQ-81soVdwbPvwZ" version="20.0.1" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1377" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
             <mxPoint x="980.5" y="861.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2" value="Black Duck Binary Analysis&amp;nbsp;monitoring system&amp;nbsp;" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
+        <mxCell id="2" value="Black Duck Binary Analysis / monitoring system&amp;nbsp;" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry width="1160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I0JCpXUERC3IQXh1LCLj-758" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
